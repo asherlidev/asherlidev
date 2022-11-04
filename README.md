@@ -1,4 +1,4 @@
-### hey there 
+### Hi there 
 
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -35,10 +35,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   19 hrs 20 mins  ██████████████████████▒░░   89.81 %
-SCSS         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-JavaScript   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+NEXT        19 hrs 20 mins  ██████████████████████▒░░   89.81 %
+TYPESCRIPT  1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+NODE        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+WEB3         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
