@@ -14,7 +14,6 @@ education:
     "Full stack developer and Frontend Developer",
     "Bachelor's in computer science",
   ]
-company: Soulber
 
 fields_of_interests:
   [
