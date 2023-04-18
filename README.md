@@ -22,7 +22,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Rust, Go"]
 2023 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cooking", "iceHokey", "Art"]
 ```
