@@ -7,7 +7,7 @@
 
 ```yaml
 name: Asher Li
-located_in: Montreal, Quebec
+located_in: Miami, Florida
 current_job: Full Stack Developer
 education:
   [
